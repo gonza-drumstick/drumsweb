@@ -1,0 +1,159 @@
+*{
+	font-family: 'Do Hyeon';
+	box-sizing: border-box;
+}
+
+body{
+	background: url(../img/texture12.png);
+}
+
+.carou-height{
+	height: 80vh;
+}
+
+.carousel-item{
+	transition: transform 0.6s ease;
+}
+
+header  .titulo h2{
+	border: 2px solid #fafafa;
+	padding: 15px;	
+	font-size: 3vw;
+	display: inline-block;
+}
+
+header  .titulo .bateros{
+	color: #c82333;
+	background-color: #fafafa;
+	border-radius: 20px 0 0 20px ;
+}
+
+header  .titulo .web{
+	background-color: #c82333;
+	color: #fafafa;
+	border-radius: 0 20px 20px 0 ;
+	margin-left: -4px;
+}
+
+header .titulo .clases{
+	color: #000;
+}
+
+header .titulo .online{
+	color: #fafafa;
+	background-color: #000;
+}
+
+header .titulo .suscripcion{
+	color: #F2C01B;
+	background-color: #000;
+	border: 2px solid #F2C01B;
+}
+
+header .titulo .gratuita{
+	color: #000;
+	background-color: #F2C01B;
+	border: 2px solid #F2C01B;
+}
+
+header .titulo p{
+	font-size: 20px;
+	text-align: center;
+	padding: 5px;
+	color: #fafafa;
+	margin-top: 20px;
+	background-color: rgba(0,0,0,.5);
+	border-radius: 10px;
+}
+
+header .titulo .clases-online{
+	color:#fafafa;
+}
+
+header .titulo .suscripcion-gratuita{
+	color:#F2C01B;
+}
+
+ .post{
+ 	padding: 10px;
+ 	text-align: center;
+ }
+
+ .cards{
+ 	background: #fafafa;
+ }
+ .post h3{
+ 	background-color: #007bff;
+ }
+aside{
+	margin: auto;
+	text-align: center;
+}
+
+.pie-pagina{
+	background: #1f2f2f;
+}
+
+.social{
+	color: #fafafa;
+	margin: 10px 0;
+	text-align: center;
+}
+
+.social h4{
+	color: #F2C01B;
+}
+
+.social p{
+	color: #ccc;
+}
+
+.social a{
+	display: inline-block;
+	color: #ccc;
+	font-size: 1.5rem;
+	margin: 30px 5px;
+}
+
+.social a:hover{
+	color: #c82333;
+}
+
+.links{
+	text-align: center;
+	margin: auto;
+}
+
+.links h4{
+	color: #fafafa;
+}
+
+.links a{
+	display: block;
+	margin: 10px 0;
+	color: #F2C01B;
+}
+
+.form{
+	color: #fafafa;
+	padding: 20px ;
+}
+
+.marcas{
+	background-color: #1F1E1D;
+	display: block;
+	text-align: center;
+	padding: 15px 0;
+}
+
+.marcas a{
+	font-size: 3rem;
+	margin: 0 25px;
+	color: #383736;
+}
+
+.marcas a:hover{
+	color:#000;
+	text-shadow: 10px ;
+}
+
