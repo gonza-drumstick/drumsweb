@@ -8,7 +8,21 @@ body{
 }
 
 .carou-height{
+	background-position: center center;
+	background-size: cover;
 	height: 80vh;
+}
+
+.carou-height.step-1 {
+	background-image: url('../img/foto4-5.jpg');
+}
+
+.carou-height.step-2 {
+	background-image: url('../img/foto12.jpg');
+}
+
+.carou-height.step-3 {
+	background-image: url('../img/foto8-2.jpg');
 }
 
 .carousel-item{
